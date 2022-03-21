@@ -10,4 +10,14 @@ Created new folder named git-exercise-3 and a readme file with description in it
 - git commit -m "Created new branch and added description"
 - git push --set-upstream origin feat/git-exercise-3 (pushed the changes to remote)
 
+ Updated the readme file
+
+- git branch (check if i'm on the feat/git-exercise-3 branch since i have to create the new branch from it)
+- git checkout -b fix/git-exercise-3 (created the new branch)
+- git add . (to stage the changes)
+- git status (to check if the changes are staged)
+- git commit -m "Modified the readme file"
+- git checkout feat/git-exercise-3
+- git merge fix/git-exercise-3
+
  
