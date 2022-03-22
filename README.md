@@ -20,4 +20,4 @@
     - git commit -m "Added the description in the readme file" (commited the changes)
     - git push (pushed the changed to remote)
 
- 
+ File has been updated to simulate the git rebase flow
