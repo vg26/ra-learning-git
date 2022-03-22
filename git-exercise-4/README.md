@@ -9,7 +9,11 @@
     - git commit -m "Add the temp.txt file" (commit the changes)
     - git push --set-upstream origin feat/git-exercise-4 (pushed the changes to remote)
 
-    
+    Created .gitignore file and included the temp.txt inside
+
+    Commit and pushed the changes
+
+    Created the Pull Request to merge feat/git-exercise-4 into main
 
     
 
